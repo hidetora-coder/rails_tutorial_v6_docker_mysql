@@ -23,7 +23,22 @@
 	"settings": {},
 
 	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": []
+	"extensions": [
+		"wingrunr21.vscode-ruby",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"castwide.solargraph",
+		"Hridoy.rails-snippets",
+		"rebornix.ruby",
+		"esbenp.prettier-vscode",
+		"abusaidm.html-snippets",
+		"ecmel.vscode-html-css",
+		"CraigMaslowski.erb",
+		"formulahendry.auto-rename-tag",
+		"formulahendry.auto-close-tag",
+		"patbenatar.advanced-new-file",
+		"ms-azuretools.vscode-docker",
+		"felipecaputo.git-project-manager"
+	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
